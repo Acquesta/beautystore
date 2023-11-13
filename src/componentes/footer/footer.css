@@ -1,0 +1,19 @@
+.footer{
+    margin-top: 50vh;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer__item{
+    margin-top:1rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 1rem;
+}
